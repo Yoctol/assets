@@ -19,7 +19,8 @@
 ![](https://github.com/Yoctol/assets/blob/master/Yoctol_Logo__BrightBg.png)
 ### Dark Background
 ![](https://github.com/Yoctol/assets/blob/master/Yoctol_Logo__DarkBg.png)
-
+### Bright Background (without Title)
+![](https://github.com/Yoctol/assets/blob/master/LogoOnly.png)
 
 <hr />
 ## Email Signature
@@ -31,5 +32,13 @@ and copy paste it to your GMail Setting
 
 <hr />
 ## og:images
-There are varieties of Openg Graph Images (aka og:images) due to different application resolutions
-### 
+There are varieties of Openg Graph Images (aka og:images) due to different application resolutions / screen ratio
+### Banner
+![](https://github.com/Yoctol/assets/blob/master/og_image_Banner.jpg)
+![](https://github.com/Yoctol/assets/blob/master/og_image_Banner2.jpg)
+### FB
+![](https://github.com/Yoctol/assets/blob/master/og_image_FB.png)
+### Square
+![](https://github.com/Yoctol/assets/blob/master/og_image_Square.png)
+### Youtube
+![](https://github.com/Yoctol/assets/blob/master/og_images_Youtube.png)
