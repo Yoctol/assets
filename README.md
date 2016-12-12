@@ -25,7 +25,11 @@
 ## Email Signature
 
 ![](https://github.com/Yoctol/assets/blob/master/Signature_Snapshot.png)
+<br />
 Please refer to [Signature Webpage](https://dl.dropboxusercontent.com/u/19373021/YOCTOL/testing%20pool/signature_03.html)
 and copy paste it to your GMail Setting
 
 <hr />
+## og:images
+There are varieties of Openg Graph Images (aka og:images) due to different application resolutions
+### 
