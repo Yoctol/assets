@@ -47,16 +47,14 @@ There are varieties of Openg Graph Images (aka og:images) due to different appli
 ### Banner
 ![](https://github.com/Yoctol/assets/blob/master/og_image_Banner.jpg)
 [JPG](https://github.com/Yoctol/assets/blob/master/og_image_Banner.jpg)
+<br />
 ![](https://github.com/Yoctol/assets/blob/master/og_images_Banner2.jpg)
 [JPG](https://github.com/Yoctol/assets/blob/master/og_images_Banner2.jpg)
 
-### FB
-![](https://github.com/Yoctol/assets/blob/master/og_image_FB.png)
-[PNG](https://github.com/Yoctol/assets/blob/master/og_image_FB.png)
-
-### Square
+### Twitter
 ![](https://github.com/Yoctol/assets/blob/master/og_image_Square.png)
 [PNG](https://github.com/Yoctol/assets/blob/master/og_image_Square.png)
+
 ### Youtube
 ![](https://github.com/Yoctol/assets/blob/master/og_images_Youtube.png)
 [PNG](https://github.com/Yoctol/assets/blob/master/og_images_Youtube.png)
