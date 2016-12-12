@@ -1,5 +1,4 @@
 # YOCTOL MEDIA KIT
-<hr />
 ### Please use the YOCTOL logo under the following guidelines:
 
 - Do not reshape, remix, recolor, or reposition anything
@@ -10,7 +9,7 @@
 - If your company/project is not directly related to the project, do not place your company/project logo directly next to the Yarn logo unless you have permission
 - Contact design dept. if special case occured
 
-(ref:https://github.com/yarnpkg/assets )
+(Guideline ref:https://github.com/yarnpkg/assets )
 
 
 <hr />
@@ -22,3 +21,11 @@
 ![](https://github.com/Yoctol/assets/blob/master/Yoctol_Logo__DarkBg.png)
 
 
+<hr />
+## Email Signature
+
+![](https://github.com/Yoctol/assets/blob/master/Signature_Snapshot.png)
+Please refer to [Signature Webpage](https://dl.dropboxusercontent.com/u/19373021/YOCTOL/testing%20pool/signature_03.html)
+and copy paste it to your GMail Setting
+
+<hr />
