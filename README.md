@@ -9,7 +9,7 @@
 - If your company/project is not directly related to the project, do not place your company/project logo directly next to the Yarn logo unless you have permission
 - Contact design dept. if special case occured
 
-(Guideline ref:https://github.com/yarnpkg/assets )
+(Guideline ref: https://github.com/yarnpkg/assets )
 
 
 <hr />
@@ -17,16 +17,19 @@
 ## Pure Logo
 ### Bright Background
 ![](https://github.com/Yoctol/assets/blob/master/Yoctol_Logo__BrightBg.png)
+<br />
 [PNG](https://github.com/Yoctol/assets/blob/master/Yoctol_Logo__BrightBg.png)
 [SVG](https://github.com/Yoctol/assets/blob/master/Yoctol_Logo__BrightBg.svg)
 
 ### Dark Background
 ![](https://github.com/Yoctol/assets/blob/master/Yoctol_Logo__DarkBg.png)
+<br />
 [PNG](https://github.com/Yoctol/assets/blob/master/Yoctol_Logo__DarkBg.png)
 [SVG](https://github.com/Yoctol/assets/blob/master/Yoctol_Logo__DarkBg.svg)
 
 ### Dark Background (without Title)
 ![](https://github.com/Yoctol/assets/blob/master/LogoOnly.png)
+<br />
 [PNG](https://github.com/Yoctol/assets/blob/master/LogoOnly.png)
 [PNG](https://github.com/Yoctol/assets/blob/master/LogoOnly.svg)
 
@@ -46,15 +49,20 @@ There are varieties of Openg Graph Images (aka og:images) due to different appli
 
 ### Banner
 ![](https://github.com/Yoctol/assets/blob/master/og_image_Banner.jpg)
-[JPG](https://github.com/Yoctol/assets/blob/master/og_image_Banner.jpg)
 <br />
+[JPG](https://github.com/Yoctol/assets/blob/master/og_image_Banner.jpg)
+<br /> 
+<br /> 
 ![](https://github.com/Yoctol/assets/blob/master/og_images_Banner2.jpg)
+<br />
 [JPG](https://github.com/Yoctol/assets/blob/master/og_images_Banner2.jpg)
 
 ### Twitter
 ![](https://github.com/Yoctol/assets/blob/master/og_image_Square.png)
+<br />
 [PNG](https://github.com/Yoctol/assets/blob/master/og_image_Square.png)
 
 ### Youtube
 ![](https://github.com/Yoctol/assets/blob/master/og_images_Youtube.png)
+<br />
 [PNG](https://github.com/Yoctol/assets/blob/master/og_images_Youtube.png)
