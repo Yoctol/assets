@@ -17,7 +17,6 @@ YOCTOL.AI has full-color and single-color patterns. Use full-color logo in light
 - Do not change the color of the logo
 - Do not change the angle, scale and ratio of the logo
 - Do not change the relative positioning of the logo and the title
-- Use whtie title when it is in dark background
 - Do not use full-color logo when the background does not highlight the logo
 - Do not use full-color logo when it is in non-monochromatic background
 - Do not use pure full-color logo when it is in non-monochromatic background
