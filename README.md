@@ -25,17 +25,17 @@ YOCTOL.AI has full-color and single-color patterns. Use full-color logo in light
 <hr />
 
 ## Full color in light background
-![](https://github.com/Yoctol/assets/blob/master/YOCTOL_LOGO/Full_colors_in_light_background/PNG/yoctolai_logo_horizontal_default.png)
+![](https://github.com/Yoctol/assets/blob/master/YOCTOL_LOGO/Full_colors_in_light_background_preview.png)
 <br />
 [Download](https://github.com/Yoctol/assets/blob/master/YOCTOL_LOGO/Full_colors_in_light_background)
 
 ## Full color in black background
-![](https://github.com/Yoctol/assets/blob/master/YOCTOL_LOGO/Full_colors_in_dark_background/PNG/yoctolai_logo_horizontal_blackbg.png)
+![](https://github.com/Yoctol/assets/blob/master/YOCTOL_LOGO/Full_colors_in_Black_background_preview.png)
 <br />
 [Download](https://github.com/Yoctol/assets/blob/master/YOCTOL_LOGO/Full_colors_in_dark_background)
 
 ## Monochrome in dark background
-![](https://github.com/Yoctol/assets/blob/master/YOCTOL_LOGO/Monochrome_in_dark_background/PNG/yoctolai_logo_horizontal_darkbg.png)
+![](https://github.com/Yoctol/assets/blob/master/YOCTOL_LOGO/Monochrome_in_dark_background_preview.png)
 <br />
 [Download](https://github.com/Yoctol/assets/blob/master/YOCTOL_LOGO/Monochrome_in_dark_background)
 
