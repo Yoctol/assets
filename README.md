@@ -1,6 +1,6 @@
 # YOCTOL.AI Brand Assets
 ### Please use the YOCTOL.AI logo under the following guidelines:
-YOCTOL.AI has full-color and single-color patterns. Use full-color logo in light and dark backgrounds, and use single-color in other backgrounds
+YOCTOL.AI has full-color and single-color patterns. Use full-color logo in light and dark backgrounds, and use single-color in other backgrounds.
 
 #### Do 
 
