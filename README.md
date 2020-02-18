@@ -1,68 +1,41 @@
-# YOCTOL MEDIA KIT
-### Please use the YOCTOL logo under the following guidelines:
+# YOCTOL.AI Brand Assets
+### Please use the YOCTOL.AI logo under the following guidelines:
+YOCTOL.AI has full-color and single-color patterns. Use full-color logo in light and dark backgrounds, and use single-color in other backgrounds
 
-- Do not reshape, remix, recolor, or reposition anything
-- Leave plenty of whitespace surrounding the logo
-- Do not overlay something on top of the logo
-- Do not add backgrounds
-- When using the yarn name next to the kitten logo, do not use a different font or position than the one that is set
-- If your company/project is not directly related to the project, do not place your company/project logo directly next to the Yarn logo unless you have permission
-- Contact design dept. if special case occured
+#### Do 
 
-(Guideline ref: https://github.com/yarnpkg/assets )
+- Use logo alone
+- Use vertical logo in accordance to your layout
+- Use horizontal logo in accordance to your layout
+- Use full-color logo and white title in dark background
+- Use monochrome logo when the background does not highlight the logo
+- Use monochromatic logo in non-monochromatic background
+- Use logo in circular-shape background when it is in non-monochromatic background
 
+#### Don't 
 
-<hr />
-
-## Pure Logo
-### Bright Background
-![](https://github.com/Yoctol/assets/blob/master/Yoctol_Logo__BrightBg.png)
-<br />
-[PNG](https://github.com/Yoctol/assets/blob/master/Yoctol_Logo__BrightBg.png)
-[SVG](https://github.com/Yoctol/assets/blob/master/Yoctol_Logo__BrightBg.svg)
-
-### Dark Background
-![](https://github.com/Yoctol/assets/blob/master/Yoctol_Logo__DarkBg.png)
-<br />
-[PNG](https://github.com/Yoctol/assets/blob/master/Yoctol_Logo__DarkBg.png)
-[SVG](https://github.com/Yoctol/assets/blob/master/Yoctol_Logo__DarkBg.svg)
-
-### Dark Background (without Title)
-![](https://github.com/Yoctol/assets/blob/master/LogoOnly.png)
-<br />
-[PNG](https://github.com/Yoctol/assets/blob/master/LogoOnly.png)
-[PNG](https://github.com/Yoctol/assets/blob/master/LogoOnly.svg)
-
-
+- Do not change the color of the logo
+- Do not change the angle, scale and ratio of the logo
+- Do not change the relative positioning of the logo and the title
+- Use whtie title when it is in dark background
+- Do not use full-color logo when the background does not highlight the logo
+- Do not use full-color logo when it is in non-monochromatic background
+- Do not use pure full-color logo when it is in non-monochromatic background
 
 <hr />
-## Email Signature
 
-![](https://github.com/Yoctol/assets/blob/master/Signature_Snapshot.png)
+## Full color in light background
+![](https://github.com/Yoctol/assets/blob/master/YOCTOL_LOGO/Full_colors_in_light_background/PNG/yoctolai_logo_horizontal_default.png)
 <br />
-Please refer to [Signature Webpage](https://dl.dropboxusercontent.com/u/19373021/YOCTOL/testing%20pool/signature_03.html)
-and copy paste it to your GMail Setting
+[Download](https://github.com/Yoctol/assets/blob/master/YOCTOL_LOGO/Full_colors_in_light_background)
 
-<hr />
-## og:images
-There are varieties of Openg Graph Images (aka og:images) due to different application resolutions / screen ratio
+## Full color in black background
+![](https://github.com/Yoctol/assets/blob/master/YOCTOL_LOGO/Full_colors_in_dark_background/PNG/yoctolai_logo_horizontal_blackbg.png)
+<br />
+[Download](https://github.com/Yoctol/assets/blob/master/YOCTOL_LOGO/Full_colors_in_dark_background)
 
-### Banner
-![](https://github.com/Yoctol/assets/blob/master/og_image_Banner.jpg)
+## Monochrome in dark background
+![](https://github.com/Yoctol/assets/blob/master/YOCTOL_LOGO/Monochrome_in_dark_background/PNG/yoctolai_logo_horizontal_darkbg.png)
 <br />
-[JPG](https://github.com/Yoctol/assets/blob/master/og_image_Banner.jpg)
-<br /> 
-<br /> 
-![](https://github.com/Yoctol/assets/blob/master/og_images_Banner2.jpg)
-<br />
-[JPG](https://github.com/Yoctol/assets/blob/master/og_images_Banner2.jpg)
+[Download](https://github.com/Yoctol/assets/blob/master/YOCTOL_LOGO/Monochrome_in_dark_background)
 
-### Twitter
-![](https://github.com/Yoctol/assets/blob/master/og_image_Square.png)
-<br />
-[PNG](https://github.com/Yoctol/assets/blob/master/og_image_Square.png)
-
-### Youtube
-![](https://github.com/Yoctol/assets/blob/master/og_images_Youtube.png)
-<br />
-[PNG](https://github.com/Yoctol/assets/blob/master/og_images_Youtube.png)
